@@ -123,7 +123,7 @@ This dashboard can help:
 ## 📸 Dashboard Preview
 
 Market Overview
-!(Images/Page1.png)
+![](Images/Page1.png)
 
 Market Behavior & Customer Insights
 !(Images/PAge2.png)
