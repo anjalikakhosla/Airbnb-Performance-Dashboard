@@ -126,7 +126,7 @@ Market Overview
 ![](Images/Page1.png)
 
 Market Behavior & Customer Insights
-!(Images/PAge2.png)
+![](Images/Page2.png)
 
 ---
 
